@@ -4,7 +4,7 @@
 LOCAL_PATH := device/oysters/t72hm
 
 # Off NINJA
-USE_NINJA := false
+USE_NINJA := true
 
 # Board
 TARGET_ARCH := arm
